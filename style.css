@@ -70,9 +70,9 @@ a:visited {
 }
 
 #main-body {
-    width:500px;
-    margin-left:100px;
-    margin-right:100px;
+    width:auto;
+    margin-left:200px;
+    margin-right:200px;
     line-height:150%;
 }
 
