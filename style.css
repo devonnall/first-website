@@ -3,6 +3,7 @@ body {
     margin:0;
     font-size:1rem;
     font-weight:normal;
+    width:100%;
 }
 
 #main-header {
