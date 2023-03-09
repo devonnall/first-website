@@ -69,9 +69,10 @@ a:visited {
     background-repeat:no-repeat;
 }
 
-#main-body p{
-    padding-left:200px;
-    padding-right:200px;
+#main-body {
+    width:auto;
+    margin-left:100px;
+    margin-right:100px;
     line-height:150%;
 }
 
