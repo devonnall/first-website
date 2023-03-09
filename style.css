@@ -69,8 +69,7 @@ a:visited {
     background-repeat:no-repeat;
 }
 
-#main-body {
-    float:none;
+#main-body div {
     margin-left:100px;
     margin-right:100px;
     line-height:150%;
