@@ -70,8 +70,8 @@ a:visited {
 }
 
 #main-body p{
-    margin-left:200px;
-    margin-right:200px;
+    padding-left:200px;
+    padding-right:200px;
     line-height:150%;
 }
 
