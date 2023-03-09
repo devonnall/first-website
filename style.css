@@ -70,7 +70,7 @@ a:visited {
 }
 
 #main-body {
-    float:left;
+    float:none;
     margin-left:100px;
     margin-right:100px;
     line-height:150%;
