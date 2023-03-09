@@ -71,8 +71,8 @@ a:visited {
 
 #main-body {
     display:block;
-    margin-left:100px;
-    margin-right:100px;
+    padding-left:100px;
+    padding-right:100px;
     line-height:150%;
 }
 
