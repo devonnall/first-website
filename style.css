@@ -59,7 +59,7 @@ a:visited {
 }
 
 #showcase {
-    background-image:url(images/abstract1.png);
+    background-image:url(images/sample-image2.jpg);
     background-position-x:right;
     min-height:300px;
     font-size:45px;
@@ -71,16 +71,27 @@ a:visited {
 
 #main-body {
     width:auto;
-    margin-left:200px;
-    margin-right:200px;
+    margin-left:10%;
+    margin-right:10%;
     line-height:150%;
 }
 
 #main-body h2{
-    text-align:center;
+    text-align:left;
 
 }
 
 #main-footer {
     text-align:center;
+}
+
+.quote {
+    font-style:italic;
+    border-color:orangered;
+    border-style:solid;
+    border-top:none;
+    border-right:none;
+    border-bottom:none;
+    border-width:3px;
+    padding-left: 20px;
 }
